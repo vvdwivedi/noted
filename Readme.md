@@ -8,7 +8,11 @@ Although this is a project for learning purpose, it can be considered as a start
 
 Use `npm install` to install node dependencies. To run the app, use the following commands:
   
-  app.js add     Add a note
-  app.js remove  Remove a note
-  app.js read    Read a note
-  app.js list    List all notes
+  `app.js add     Add a note`
+  
+  `app.js remove  Remove a note`
+  
+  `app.js read    Read a note`
+  
+  `app.js list    List all notes`
+  
